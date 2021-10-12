@@ -12,7 +12,7 @@
 ✍️ &nbsp;I'm a freelance Fullstack Developer. My objective is to help business owners and non-profit organizations to develop and implement their desired web application.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at johnliveeoroncillo@gmail.com. I'll try to respond as soon as possible!\
-🔗 &nbsp;Visit my portfolio [Website](https://jlocodes.com) for more details about work experience.
+🔗 &nbsp;Visit my [portfolio](https://jlocodes.com) for more details about work experience.
 
 ### 🛠 &nbsp;Tech Stack
 
