@@ -32,10 +32,10 @@
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Netlify](	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=johnliveeoroncillo&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
 
 
 ### 📫 &nbsp; How to reach me:
