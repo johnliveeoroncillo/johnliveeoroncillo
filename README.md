@@ -11,7 +11,7 @@
 💡 &nbsp;I have a huge passion for creating beautiful, responsive, and comfortable experiences through the applications and websites I make. \
 ✍️ &nbsp;I'm a freelance Fullstack Developer. My objective is to help business owners and non-profit organizations to develop and implement their desired web application.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at johnliveeoroncillo@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at hello@jlocodes.com. I'll try to respond as soon as possible!\
 🔗 &nbsp;Visit my [portfolio](https://jlocodes.com) for more details about work experience.
 
 ### 🛠 &nbsp;Tech Stack
@@ -57,7 +57,7 @@
 
 
 <a href="https://www.linkedin.com/in/johnlivee/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:johnliveeoroncillo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:hello@jlocodes.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 
 <!--
 **johnliveeoroncillo/johnliveeoroncillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
